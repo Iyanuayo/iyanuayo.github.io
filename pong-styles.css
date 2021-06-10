@@ -12,7 +12,7 @@ body {
 #game {
   margin: 10px;
   border: 5px solid black;
-  left: 0;
+  left: 37%;
   position: absolute;
   background-image: url("pong\ image.jpg");
 }
@@ -30,7 +30,8 @@ body {
 
 #instructions {
   display: block;
-  bottom: 0;
+  bottom: 35%;
+  left: 40%;
   position: absolute;
   margin: 10px;
   font-family: Arial, Helvetica, sans-serif;
