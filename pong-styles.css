@@ -39,7 +39,8 @@ body {
 
 #errors-debug {
   display: block;
-  bottom: 0;
+  bottom: 35%;
+  left: 30%;
   position: absolute;
   margin: 10px;
   padding-left: 400px;
@@ -86,6 +87,7 @@ body {
 .score {
   position: absolute;
   font-family: Arial, Helvetica, sans-serif;
+  color: white;
   top: 0;
 }
 
