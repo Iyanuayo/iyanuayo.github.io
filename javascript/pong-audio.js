@@ -55,9 +55,9 @@ soundArray.push(scoreSound);
 export var ambientSound = new soundFile("Adventure_Meme.mp3");
 soundArray.push(ambientSound);
 ambientSound.player.loop = true; //turn on looping
-ambientSound.player.volume.value = -20; //turn down volume
+ambientSound.player.volume.value = 0; //turn down volume
 
-export var adventureMusic = new soundFile("Eight_Bit_Village_Loop.mp3");
+export var adventureMusic = new soundFile("Crisp_Ocean_Waves-Mike_Koenig-1486046376.mp3");
 soundArray.push(adventureMusic);
 adventureMusic.player.loop = true;
 adventureMusic.player.volume.value = -20;
