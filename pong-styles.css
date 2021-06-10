@@ -14,7 +14,7 @@ body {
   border: 5px solid black;
   left: 0;
   position: absolute;
-  background-size: cover;
+  background-image: url("pong\ image.jpg");
 }
 
 #left-paddle {
