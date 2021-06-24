@@ -39,7 +39,7 @@ body {
 }
 
 #errors-debug {
-  display: block;
+  display: none;
   bottom: 35%;
   left: 40%;
   position: absolute;
