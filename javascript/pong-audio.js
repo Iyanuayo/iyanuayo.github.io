@@ -57,6 +57,7 @@ soundArray.push(ambientSound);
 ambientSound.player.loop = true; //turn on looping
 ambientSound.player.volume.value = 25; //turn down volume
 
+
 export var adventureMusic = new soundFile("wind.mp3");
 soundArray.push(adventureMusic);
 adventureMusic.player.loop = true;
